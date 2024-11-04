@@ -1,1 +1,3 @@
-<?echo 'rrr';?>
+<?
+echo 'rrr';
+?>
